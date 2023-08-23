@@ -7,7 +7,6 @@ This is a basic web application that demonstrates user registration using Expres
 1. **Clone the repository:**
 
    ```sh
-   mkdir your-project
    git clone https://github.com/your-username/your-project.git
    cd your-project
 

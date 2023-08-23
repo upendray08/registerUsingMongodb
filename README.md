@@ -11,6 +11,7 @@ This is a basic web application that demonstrates user registration using Expres
    cd your-project
 
 2. **Install dependencies & setup metadata:**
+   ```sh
    npm init
    npm install Express.js,Mongoose,EJS,Body-parser,crypto,nodemon
 4. **Ensure MongoDB is running**

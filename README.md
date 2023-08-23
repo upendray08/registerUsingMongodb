@@ -11,7 +11,7 @@ This is a basic web application that demonstrates user registration using Expres
    cd your-project
 
 2. **Install dependencies:**
-   npm install Express.js,Mongoose,EJS,Body-parser,crypto
+   npm install Express.js,Mongoose,EJS,Body-parser,crypto,nodemon
 3. **Ensure MongoDB is running**
    Make sure that MongoDB is running locally
 4. **Start the app:**
